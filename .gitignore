@@ -1,0 +1,12 @@
+mysql-data/
+target/
+*.war
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
+target/
+reportes/
+dependency-check-report.*
+bom.json
